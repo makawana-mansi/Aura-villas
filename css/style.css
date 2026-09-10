@@ -1,14 +1,14 @@
     :root {
         --color1: #8B1E3F;
         --color2: #B8A9AD;
-        --color3: #3A292D;
-        --color4: #0A0204;
+        --color3: #4A343A;
+        --color4: #2B1B1F;
         --color5: #F3EBDD;
         --color6: #B8A9AD;
-        --color7: rgb(58 41 45 / 0.2);
-        --color8: #16090D;
+        --color7: rgba(74, 52, 58, 0.25);
+        --color8: #24151A;
         --color9: #B8A9AD;
-        --color10: #16090D;
+        --color10: #1C1014;
         --color11: #F3EBDD;
 
         --serif: 'Cormorant Garamond', serif;
@@ -519,7 +519,7 @@
     #gallery h2 {
         width: 100%;
         font-size: 46px;
-        padding: 30px 0 30px;
+        padding: 0px 0 30px;
         text-align: center;
         font-family: var(--serif);
     }
