@@ -409,7 +409,7 @@ nav a:hover {
 
 #used1 {
     background-color: var(--color8);
-    padding: 90px 7%;
+    padding: 46px 7% 0 7%;
     border-top: 1px solid var(--color3);
 }
 
@@ -417,7 +417,7 @@ nav a:hover {
     font-family: var(--serif);
     font-size: 46px;
     text-align: center;
-    margin-bottom: 55px;
+    margin-bottom: 31px;
     color: var(--color5);
 }
 
@@ -425,6 +425,7 @@ nav a:hover {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
+    padding-bottom: 3%;
 }
 
 .why-card {
@@ -483,7 +484,7 @@ nav a:hover {
 
 #experiences h2 {
     font-size: 46px;
-    padding: 81px 0 1px 0;
+    padding: 48px 0 1px 0;
     text-align: center;
 }
 
@@ -542,8 +543,9 @@ nav a:hover {
 
 #amenities {
     background-color: var(--color4);
-    padding: 90px 7%;
+    padding: 52px 7%;
     border-top: 1px solid var(--color3);
+    1
 }
 
 #amenities h2 {
@@ -551,7 +553,7 @@ nav a:hover {
     font-size: 46px;
     text-align: center;
     color: var(--color5);
-    margin-bottom: 12px;
+    margin-bottom: 30px;
 }
 
 .amenities-intro {
@@ -626,7 +628,7 @@ nav a:hover {
 
 #gallery {
     background-color: var(--color4);
-    padding: 50px 0 4%;
+    padding: 0px 0 4%;
 }
 
 #gallery h2 {
@@ -842,7 +844,7 @@ nav a:hover {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    margin: 5% 43%;
+    margin: 5% 0% 5% 43%;
     gap: 13px;
 }
 
